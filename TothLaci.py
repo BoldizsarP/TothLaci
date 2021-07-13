@@ -13,9 +13,10 @@
 # client.run(TOKEN)
 import discord
 import time
+import os
 from datetime import datetime
 
-TOKEN="ODYzMDk5MzM4OTAwNjM1Njg4.YOh95g.PMTvZv_qxjfGPAJQyCVpZ6IgYQI"
+TOKEN= os.getenv("DISCORD_TOKEN")
 
 client = discord.Client()
 
