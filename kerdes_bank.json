@@ -1,0 +1,21 @@
+{
+    "kerdesek": [{
+            "question": "melyik gyumolcs?",
+            "answer": "alma",
+            "bad_answer": ["uborka", "hagyma", "tucsok","BSZ"],
+            "tipus": "abcd"
+        },
+        {
+            "question": "milyen szinu a fu?",
+            "answer": "zold",
+            "bad_answer": ["kek", "sarga","lila"],
+            "tipus": "abcd"
+        },
+        {
+            "question": "melyik nem virag?",
+            "answer": "eper",
+            "bad_answer": ["azalea", "ibolya"],
+            "tipus": "abcd"
+        }
+    ]
+}

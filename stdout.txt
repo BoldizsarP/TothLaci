@@ -1,0 +1,17 @@
+('asdasd',),{}
+('asdasd',),{}
+([<Guild id=863100555357716510 name='Very Nice Christian Discord Server' shard_id=None chunked=False member_count=14>],),{}('asdasd',),{}
+([<Guild id=863100555357716510 name='Very Nice Christian Discord Server' shard_id=None chunked=False member_count=14>],),{}
+('asdasd', 'basd'),{'ancsi': 'csigusz'}
+('asdasd', 'basd'),{'ancsi': 'csigusz'}
+([<Guild id=863100555357716510 name='Very Nice Christian Discord Server' shard_id=None chunked=False member_count=14>],),{}
+('asdasd', 'basd'),{'ancsi': 'csigusz'}
+({1: 'salala', <function printer at 0x000001F31ACDCD30>: datetime.datetime(2021, 7, 23, 21, 0, 26, 659925)},),{}
+([<Guild id=863100555357716510 name='Very Nice Christian Discord Server' shard_id=None chunked=False member_count=14>],),{}
+('asdasd', 'basd'),{'printer': 'csigusz'}
+({1: 'salala', <function printer at 0x000002485A17CD30>: datetime.datetime(2021, 7, 23, 21, 1, 15, 8759)},),{}
+([<Guild id=863100555357716510 name='Very Nice Christian Discord Server' shard_id=None chunked=False member_count=14>],),{}
+('asdasd', 'basd'),{'printer': 'csigusz'}
+({1: 'salala', <function printer at 0x0000022649AB0550>: datetime.datetime(2021, 7, 23, 21, 19, 38, 500678)},),{}
+([<Guild id=863100555357716510 name='Very Nice Christian Discord Server' shard_id=None chunked=False member_count=14>],),{}
+(1,),{}
